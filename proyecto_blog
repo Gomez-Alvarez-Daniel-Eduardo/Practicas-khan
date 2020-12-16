@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+        body{
+            background-color:rgb(202, 252, 251);
+        }
+        
+            #title{
+                color:rgb(30, 20, 219);
+                font-family: sans-serif;
+                text-align: center;
+            }
+            .post{
+                color:rgb(21, 128, 0);
+                font-family: serif;  
+            }
+            p{
+                font-family: monospace;                
+                font-size: 12px;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1 id="title">DEGA'S blog</h1>
+<table>
+    <tr>
+        <th>Contents </th>
+    </tr>
+    <tr>
+        <td><li><a href="#First-post">The night of the pigs</a></li> </td>
+    </tr>  
+    <tr>
+        <td> <li> <a href="#sweet">A sweet day</a> </li> </td>
+    </tr>  
+    <tr>
+        <td> <li><a href="#luck">My bad luck</a></li> </td>
+    </tr>   
+</table>
+
+        <h2 class= "post" id= "First-post">First post:the night of the pigs</h2>
+        <h6>Guanajuato, Mexico 2013</h6>
+        
+        <p> I am not a person who leaves home a lot, much less I travel, even so in the only 2 trips I have made and suffered interesting anecdotes here is the first.</p>
+       <p> My grandmother lived in a rural town in Guanajuato, we visited once and many things happened, one night of our stay in that town they told us the story of the man with the head of a pig, an absurd story, but, for a child of ten Years it was creepy and it didn't help at all that that night my grandmother's pigs were screaming at dawn, it was a terrifying moment for me as I remembered the story of the man with the head of a pig and I couldn't sleep.</p>        
+        
+        <h2 class= "post" id= "sweet">second post: a day of sweets</h2>
+        <h6>Guanajuato, Mexico 2013</h6>
+        
+       <p> Ok, this story is sweeter, on that same trip there was a posada (which is a kind of party where they sing and give sweets to children) at that party they gave me a bag full of tooth breakers (a hard and delicious sweets) they were so many sweets that they lasted more than 3 months, and I ate many that same day. <br>It was a SWEET day for me.</p>            
+        
+        <h2 class= "post" id= "luck">third post: my bad luck</h2>
+        <h6>Oaxaca, Mexico 2018</h6>
+        
+       <p> My time at my grandmother's house had several experiences, some good, others not so much, but not all the post will deal with the same trip, so I will tell the time they left me on a school trip.</p>
+       
+<p>In 2018 I went on a short school trip where we would only visit an expo, that same day we would return, the expo was 2 hours from school but even so it happened in a part of the city that I did not know, in short, I was asleep on a bench and the return bus that left at 5pm left me behind. I had to return transferring and spending what little money I had.</p>         
+        
+        
+        
+    </body>
+</html>
